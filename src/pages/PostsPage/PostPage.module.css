@@ -1,0 +1,9 @@
+.page {
+    display: flex;
+}
+
+.post{
+    border: 2px solid red;
+    height: min-content;
+    border-radius: 10px;
+}
